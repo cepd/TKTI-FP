@@ -123,8 +123,8 @@
                     <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
                         <h3>Silahkan pilih bidang yang ingin anda cek tingkat kematangannya!</h3>
                         <p>
-                            Dari sumber daya yang anda pilih, kami akan berikan kuesioner untuk membantu anda menghitung
-                            tingkat kematangan dari suatu bagian dari sumber daya tersebut.
+                            Dari bidang yang anda pilih, kami akan berikan kuesioner untuk membantu anda menghitung
+                            tingkat kematangan dari suatu bagian dari bidang tersebut.
                         </p>
 
                         <ul>
